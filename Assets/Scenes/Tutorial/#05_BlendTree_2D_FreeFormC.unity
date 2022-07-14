@@ -456,7 +456,7 @@ PrefabInstance:
     - target: {fileID: 9500000, guid: 8f0565f23a2b58541a475bd3c1393052, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: 5b960cda5143f0243b4c61d0c736006d, type: 2}
+      objectReference: {fileID: 9100000, guid: 56bdcb4cbbb70414ab81e300807125a1, type: 2}
     - target: {fileID: 13700000, guid: 8f0565f23a2b58541a475bd3c1393052, type: 3}
       propertyPath: m_DirtyAABB
       value: 0
@@ -590,7 +590,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &2031958621
+--- !u!114 &2031958619
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -599,6 +599,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 2031958616}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d4704a24ef03ca3408857957de7e03fd, type: 3}
+  m_Script: {fileID: 11500000, guid: c371062cf66313f40ba51057c01eaee4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
