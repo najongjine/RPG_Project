@@ -7,5 +7,6 @@ public class MyTags
     public static class Animator
     {
         public const string fowardSpeed = "fowardSpeed";
+        public const string attack = "attack";
     }
 }
